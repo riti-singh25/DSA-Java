@@ -20,7 +20,7 @@ public class Binary_Search {
         
     }
     public static void main(String[] args) {
-        int array[]={2,4,6,8,10,12,14};
+        int array[]={2,4,6,8,10,12};
         int key =10;
         System.out.println("index of the key is "+search(array,key));
     }
